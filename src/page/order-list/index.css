@@ -1,0 +1,59 @@
+
+
+.order-list-table,.order-item{
+    width: 100%;
+    border-collapse: collapse;
+    background: #fafafa;
+    margin-bottom:20px; 
+}
+.cell{
+    padding: 10px 0;
+    color:#666;
+    border-bottom: 1px solid #eee;
+}
+.order-list-table.header{
+    background: #eee;
+}
+.order-info{
+    background: #eee;padding: 10px;
+}
+.order-info .order-text{
+    color:#666;    
+    margin-right: 25px;
+}
+.order-info .order-text .order-num{
+    font-weight: bold
+}
+.order-info .order-text .order-total{
+    font-weight: bold;
+    color:#c60023;
+}
+.order-detail{
+    float: right
+}
+.cell-img{
+    padding: 10px;
+    width: 10%;
+    text-align: center
+}
+.p-img{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ddd;
+}
+.cell-info{
+    width: 45%;
+    text-align: left;
+}
+.cell-price{
+    width: 15%;
+    text-align: center;
+}
+.cell-count{
+    width: 15%;
+    text-align: center;
+}
+.cell-total{
+    width: 15%;
+    text-align: center;
+}
