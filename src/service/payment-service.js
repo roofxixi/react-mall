@@ -27,7 +27,6 @@ var _payment = {
             error:reject
         })
     },
-
 }
 
 
