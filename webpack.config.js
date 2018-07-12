@@ -132,26 +132,6 @@ var config = {
       //      changeOrigin: true,
       //      pathRewrite: {'^/api': ''}
       //  },
-      '/user': {
-        target: 'http://www.happymmall.com',
-        changeOrigin: true
-      },
-      '/shipping': {
-        target: 'http://www.happymmall.com',
-        changeOrigin: true
-      },
-      '/order': {
-        target: 'http://www.happymmall.com',
-        changeOrigin: true
-      },
-      '/cart': {
-        target: 'http://www.happymmall.com',
-        changeOrigin: true
-      },
-      '/product': {
-        target: 'http://www.happymmall.com',
-        changeOrigin: true
-      }
     }
   },
 
